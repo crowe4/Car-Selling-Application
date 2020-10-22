@@ -5,6 +5,7 @@ Group Members - Amrish Nayak, Briana Crowe, Yash Chaturvedi
 Date - October 2020.
 
 Features –
+
 • A potential buyer can choose from one of the default models.
 • A potential buyer can look at the details of the car they selected.
 • A potential buyer can look at any accessories to be added to the car and the costs associated with them.
