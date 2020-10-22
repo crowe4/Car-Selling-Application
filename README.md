@@ -7,6 +7,7 @@ Group Members - Amrish Nayak, Briana Crowe, Yash Chaturvedi
 Date - October 2020.
 
 
+
 Features –
 
 • A potential buyer can choose from one of the default models.
@@ -30,7 +31,9 @@ Features –
 • Seller can look at most common accessory sold for any particular model of any car.
 
 
+
 Tables -
+
 
 
 Tools - 
