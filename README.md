@@ -55,7 +55,7 @@ Date - October 2020.
 
 # 3). Implementation
 ## 3.1) Creating Tables
-`CREATE TABLE Buyer
+`< CREATE TABLE Buyer
     (
         Customer_id VARCHAR(6) NOT NULL,
         Name VARCHAR(20) NOT NULL,
@@ -65,7 +65,7 @@ Date - October 2020.
         PRIMARY KEY (Customer_id),
         Cart_id VARCHAR(7) NOT NULL,
         FOREIGN KEY(Cart_id) REFERENCES Cart(Cart_id)
-    );`
+    ); >`
     
  `CREATE TABLE Cart
     (
