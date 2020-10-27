@@ -13,6 +13,7 @@ CREATE TABLE Buyer
 CREATE TABLE Cart
     (
         Cart_id VARCHAR(7) NOT NULL,
+        Purchased BOOL NOT NULL,
         PRIMARY KEY(Cart_id),
         Brand_id VARCHAR(5) NOT NULL,
         FOREIGN KEY(Brand_id) REFERENCES Vehicle_brand(Brand_id)
