@@ -34,14 +34,23 @@ Date - October 2020.
 
 ## 2.2). ERD Diagram Assumptions –
 •	A buyer always has a cart.
+
 •	A particular cart can only be associated with one particular user (Assuming his account details are not shared with other people).
+
 •	A particular cart can be made up of 0 or multiple brands (vehicles), so basically people can buy multiple cars at once (in a single order).
+
 •	A particular car brand can be present in 0 or more carts. Basically, many people can buy the same brand’s vehicle.
+
 •	Multiple brands can own a particular make(model) of a car or not. Example - BMW & Alpina have few models owned by both brands.
+
 •	A particular make (model) belongs to at least 1 or more brands.
+
 •	A particular make (model) can have 0 or more accessories added to it.
+
 •	A particular make (model) is available in 1 or more colors.
+
 •	A particular color can be available in 0 or more make (models).
+
 •	A particular accessory can be compatible with 0 or more makes (models).
 
 
