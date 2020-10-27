@@ -65,21 +65,21 @@ Date - October 2020.
         PRIMARY KEY (Customer_id),
         Cart_id VARCHAR(7) NOT NULL,
         FOREIGN KEY(Cart_id) REFERENCES Cart(Cart_id)
-    );
+    );`
     
- CREATE TABLE Cart
+ `CREATE TABLE Cart
     (
         Cart_id VARCHAR(7) NOT NULL,
         PRIMARY KEY(Cart_id)
         Brand_id VARCHAR(5) NOT NULL,
         FOREIGN KEY(Brand_id) REFERENCES Vehicle_brand(Brand_id)
        
-    );
+    );`
     
- CREATE TABLE Vehicle_Brand
+ `CREATE TABLE Vehicle_Brand
  (
         Brand_id VARCHAR(5) NOT NULL,
         PRIMARY KEY(Brand_id)
         Make_id VARCHAR(5) NOT NULL,
         FOREIGN KEY(Make_id) REFERENCES Make(Make_id)
- )`
+ );`
