@@ -53,5 +53,10 @@ Date - October 2020.
 
 •	A particular accessory can be compatible with 0 or more makes (models).
 
-
-Tools - 
+# 3). Implementation
+## 3.1) Creating Tables
+`<CREATE TABLE Cart
+    (
+        Cart_id VARCHAR(7) NOT NULL,
+        PRIMARY KEY(Cart_id)
+    );>`
