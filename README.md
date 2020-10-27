@@ -2,13 +2,13 @@
 
 Project for CS348 (Informations Systems) @Purdue University.
 
-Group Members - Amrish Nayak, Briana Crowe, Yash Chaturvedi
+Group Members - *Amrish Nayak, Briana Crowe, Yash Chaturvedi*
 
 Date - October 2020.
 
 
 
-Features –
+##Features –
 
 • A potential buyer can choose from one of the default models.
 
@@ -30,9 +30,6 @@ Features –
 
 • Seller can look at most common accessory sold for any particular model of any car.
 
-
-
-Tables -
 
 
 
