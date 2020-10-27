@@ -55,8 +55,8 @@ Date - October 2020.
 
 # 3). Implementation
 ## 3.1) Creating Tables
-`<CREATE TABLE Cart
+`CREATE TABLE Cart
     (
         Cart_id VARCHAR(7) NOT NULL,
         PRIMARY KEY(Cart_id)
-    );>`
+    );`
