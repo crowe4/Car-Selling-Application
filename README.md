@@ -55,4 +55,4 @@ Date - October 2020.
 
 # 3). Implementation
 ## 3.1) Creating Tables
-The tables have been added along with primary and foreign keys, in the code.sql file.
+The tables have been added along with primary and foreign keys, in the tables.sql file.
